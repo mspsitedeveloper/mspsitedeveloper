@@ -2,9 +2,9 @@
 
 
 ##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Bale+Bot+Developer;Frontend+Programmer;Backend+Developer;)
-Hi all 👋!
+Hi my friend 👋!
 
-I'm **Mohammad Saleh Peyravi**, a passionate **bot developer** 🤖 and discord ***configer***.
+I'm **Mohammad Saleh Peyravi**, a **bot developer** 🤖 and **site developer**.
 
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/898843614380163082" />
@@ -28,8 +28,6 @@ I'm **Mohammad Saleh Peyravi**, a passionate **bot developer** 🤖 and discord 
 </p>
 
 ## 💻 Skills
-
-- **🔷 Discord and server configuration**: 100%
 - **🐍 Python**: 100%
 - **🌐 HTML**: 100%
 - ** css**: 80%
