@@ -1,29 +1,31 @@
 # MSP
 
 
-##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=bale+bot+developer;Discord+Server+Administrator;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
+##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Bale+Bot+Developer;Frontend+Programmer;Backend+Developer;)
 Hi all 👋!
 
-I'm **Ali Safamanesh**, a passionate **bot developer** 🤖 and discord ***configer***.
+I'm **Mohammad Saleh Peyravi**, a passionate **bot developer** 🤖 and discord ***configer***.
 
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/898843614380163082" />
-  <img src="https://api.statusbadges.me/badge/playing/898843614380163082" />
   <img src="https://api.statusbadges.me/badge/vscode/898843614380163082" />
 </p>
 
 ## 🤖 My Bots
+- password manage bot
+- ai image creator bot
+- translator bot
+- cheragh chanel bot
+- tic tac toe bot
+- shop manage bot
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspsitedeveloper&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- 🛒 TemplarShop bot
-- ⛏️ MahaCraft bot
-- 👨‍💻 DevelopersClub bot
-- 🤡 NotAFunBot bot
-- 🎮 NeoGames bot
-- 📰 InterNews bot
-- 🎸 NotMeloBot
-- 📸 NotPhotoBot (coming soon)
-- 🔍 NotSearchingBot (coming soon)
-- 📰 NotNewsBot (coming soon)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mspsitedeveloper&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ## 💻 Skills
 
@@ -36,7 +38,7 @@ I'm **Ali Safamanesh**, a passionate **bot developer** 🤖 and discord ***confi
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white).
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -48,10 +50,6 @@ I'm **Ali Safamanesh**, a passionate **bot developer** 🤖 and discord ***confi
 Did you know? The term "bot" is derived from the word "robot" and was first used in the context of computer programs in the 1960s!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daradege&color=blueviolet" alt="Profile views" />
-</p>
 
 <p align="center">
   Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech!
