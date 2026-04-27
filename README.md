@@ -37,11 +37,12 @@ My ID in sosial medias(bale,eitaa) :
 -  **🤖 Telegram and Bale bot**: 95%
 -  **👨‍💻Android Devolop**: 30%
 -  **💻Kotlin**: 25%
-
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt ="" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt ="github" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt ="python" />
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt ="vs-code" />
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt ="" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt ="github" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt ="python" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt ="vs-code" />
+  </p>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
