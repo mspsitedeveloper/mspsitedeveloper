@@ -1,11 +1,11 @@
 # MSP
 
 
-##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Bale+Bot+Developer;Frontend+Programmer;Backend+Developer;)
+##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Bale+Bot+Developer;Full+Stack+Developer;Android+Developer;)
 Hi my friend 👋!
 
 I'm **Mohammad Saleh Peyravi**, a **bot developer** 🤖 , **site developer** and **Android developer**.
-My ID in sosial medias(bale,eitaa) : 
+My ID in sosial medias(bale,eitaa) : @msp10313
 
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/898843614380163082" />
@@ -35,22 +35,17 @@ My ID in sosial medias(bale,eitaa) :
 - **🌐 HTML**: 100%
 -  **🌐 Css**: 80%
 -  **🤖 Telegram and Bale bot**: 95%
+-  **Django**: 70%
 -  **👨‍💻Android Devolop**: 30%
 -  **💻Kotlin**: 25%
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt ="" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt ="github" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt ="python" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt ="vs-code" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue">
 
-  </p>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Django](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)](https://img.shields.io/badge/-Django-F05032?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-129e68?style=flat-square&logo=Django)
+![Android](https://img.shields.io/badge/-Android-white?style=flat-square&logo=Android&logoColor=white&color=3ddc84)
 
+## Github Cups
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mspsitedeveloper&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
