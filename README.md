@@ -4,7 +4,7 @@
 
 Hi!
 
-I'm ##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Bale+Bot+Developer;Full+Stack+Developer;Android+Developer;)
+I'm ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&random=false&width=435&lines=Bale+Bot+Developer;Full+Stack+Developer;Android+Developer;)
 
 
 My ID in sosial medias(bale,eitaa) : @msp10313
